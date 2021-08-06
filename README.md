@@ -5,7 +5,7 @@ for country names and country codes (in different languages) from an external
 data source. It's something we have had to do quite often so have pushed it up
 to Github.
 
-##G etting the data
+## Getting the data
 
 1. Go here https://stefangabos.github.io/world_countries/
 2. Select the second JSON option for each country you want
